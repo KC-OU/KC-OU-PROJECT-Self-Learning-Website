@@ -56,16 +56,16 @@ theme                  = "shadocs"
     languageName = "Français"
   
   [languages.it]
-     contentDir  = "content/Italian"
+     contentDir  = "content/italian"
      title       = "La documentazione sull'apprendimento autonomo dell'OU di Kieran Collins"
      weight      = 3
      languageName = "Italiano"
 
   [languages.is]
-      contentDir  = "content/Icelandic"
+      contentDir  = "content/icelandic"
       title       = "OU sjálfsnáms kennsluefni Kieran Collins"
       weight      = 4
-      languageName = "Íslenska"    
+      languageName = "Íslenska"
 #
 # Specific configuration
 #
