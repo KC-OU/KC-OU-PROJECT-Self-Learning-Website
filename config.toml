@@ -45,21 +45,27 @@ theme                  = "shadocs"
 [Languages]
   [Languages.en]
     contentDir   = "content/english"
-    title        = ""
+    title        = "Kieran Collins - OU Self Learning Documentation"
     weight       = 1
     languageName = "English"
 
   [Languages.fr]
     contentDir   = "content/french"
-    title        = "Documentation du thème Shadocs"
+    title        = "La documentation d'apprentissage autonome de l'OU de Kieran Collins"
     weight       = 2
     languageName = "Français"
   
   [languages.it]
      contentDir  = "content/Italian"
-     title       = ""
+     title       = "La documentazione sull'apprendimento autonomo dell'OU di Kieran Collins"
+     weight      = 3
+     languageName = "Italiano"
 
-
+  [languages.is]
+      contentDir  = "content/Icelandic"
+      title       = "OU sjálfsnáms kennsluefni Kieran Collins"
+      weight      = 4
+      languageName = "Íslenska"    
 #
 # Specific configuration
 #
